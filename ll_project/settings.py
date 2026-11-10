@@ -136,3 +136,6 @@ LOGOUT_REDIRECT_URL = 'learning_logs:index'
 
 
 
+
+
+from .settings_psh import *
